@@ -1,0 +1,2 @@
+# slider
+easy slider
